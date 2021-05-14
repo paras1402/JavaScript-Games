@@ -1,0 +1,20 @@
+.dino{
+    position: absolute;
+    width: 70px;
+    height: 100px;
+    /* background-color:red; */
+    background-image: url('images/mario.png');
+    bottom: 10px;
+}
+
+
+
+.obstacle{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    /* background-color:orange; */
+    background-image: url('images/obssmall.png');
+
+    bottom: 10px;   
+}
